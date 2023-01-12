@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Creating Namaste React App",
   "main": "App.js",
+  "source": "index.html",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel",
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",

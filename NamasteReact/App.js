@@ -59,7 +59,7 @@ const HeaderComponent2 = () =>  (
       {test}
       {heading1}
       {heading2}
-      <HeaderComponent/> /* Component Composition */
+      <HeaderComponent/> {/* Component Composition */}
       {HeaderComponent1()}
       <h1> Hi Krishna </h1>
       <h2>Hi Moorthi</h2>
